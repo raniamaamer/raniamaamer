@@ -8,7 +8,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 
 - ⚡ I have a curious mind about discovering how things in the world are made
 - ❤️ I enjoy delving into data to reveal meaningful insights.
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning Angular
 - 🔭 I’m currently working on projects
 - ⚡ I like cooking, video editing, photography & ... 
 
@@ -23,6 +23,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-0080FF?style=for-the-badge&logo=react&logoColor=white"></code>
 
 
 ![](https://komarev.com/ghpvc/?username=maamerrania)
@@ -33,7 +34,8 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 
 ![RaniaMaamer GitHub stats](https://github-readme-stats.vercel.app/api?username=raniamaamer&show-icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raniamaamer)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raniamaamer&theme=dark)](https://git.io/streak-stats)
+
 
 [![maamerrania's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raniamaamer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
