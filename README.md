@@ -8,7 +8,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 
 - ⚡ I have a curious mind about discovering how things in the world are made
 - ❤️ I enjoy delving into data to reveal meaningful insights.
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning Angular
 - 🔭 I’m currently working on projects
 - ⚡ I like cooking, video editing, photography & ... 
 
@@ -23,6 +23,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-0080FF?style=for-the-badge&logo=react&logoColor=white"></code>
 
 
 ![](https://komarev.com/ghpvc/?username=maamerrania)
