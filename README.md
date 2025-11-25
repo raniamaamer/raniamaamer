@@ -26,6 +26,8 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-0080FF?style=for-the-badge&logo=react&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></code>
+
 
 
 ![](https://komarev.com/ghpvc/?username=maamerrania)
