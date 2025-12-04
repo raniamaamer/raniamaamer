@@ -1,4 +1,4 @@
-## Hi there 👋
+## **السلام عليكم ورحمة الله وبركاته**
 
 I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as a Full Stack Developer. I love transforming complex data into valuable insights and developing powerful applications that make a real impact.
 
