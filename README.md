@@ -12,7 +12,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 - ❤️ I enjoy delving into data to reveal meaningful insights.
 - 🌱 I’m currently learning Angular
 - 🔭 I’m currently working on projects
-- ⚡ I like cooking, video editing, photography & ... 
+- ⚡ I like cooking, video editing, photography
 
 **Languages and Tools:** 
 
