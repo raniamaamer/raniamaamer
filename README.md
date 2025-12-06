@@ -1,5 +1,5 @@
 <h1 align="center">
-**السلام عليكم ورحمة الله وبركاته** <br> 
+السلام عليكم ورحمة الله وبركاته <br> 
 </h1> 
 
 I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as a Full Stack Developer. I love transforming complex data into valuable insights and developing powerful applications that make a real impact.
