@@ -27,6 +27,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=red"></code>
 <code><img height="20" src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=orange"></code>
 <code><img height="20" src="https://img.shields.io/badge/Keras-FFFFFF?style=for-the-badge&logo=keras&logoColor=red"></code>
+<code><img height="20" src="https://img.shields.io/badge/Streamlit-FFFFFF?style=for-the-badge&logo=streamlit&logoColor=darkred"></code>
 <code><img height="20" src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black"></code>
 
 ### 🚩 DataBase
