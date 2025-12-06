@@ -18,7 +18,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 ### 🚩 Languages
 <code><img height="30" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=yellow"></code>
 <code><img height="30" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=orange"></code>
-<code><img height="30" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=blue"></code>
+<code><img height="30" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css&logoColor=blue"></code>
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=js&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red"></code>
 <code><img height="30" src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=R&logoColor=blue"></code>
