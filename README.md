@@ -36,7 +36,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20.5" src="https://img.shields.io/badge/fireBase-FFFFFF?style=for-the-badge&logo=fireBase&logoColor=darkorange"></code>
 
 ### 🚩 Visualisation
-<code><img height="20.5" src="https://img.shields.io/badge/PowerBI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=yellow"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/PowerBI-FFFFFF?style=for-the-badge&logo=power BI&logoColor=yellow"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=blue"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/Dash-FFFFFF?style=for-the-badge&logo=Dash&logoColor=purple"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black"></code>
