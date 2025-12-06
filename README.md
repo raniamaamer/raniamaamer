@@ -20,7 +20,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20.5" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=orange"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css&logoColor=blue"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=darkyellow"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red"></code>
+<code><img height="20.5" src="[https://img.shields.io](https://www.shutterstock.com/fr/search/java-logo?dd_referrer=https%3A%2F%2Fwww.google.com%2F)/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=R&logoColor=blue"></code>
 
 ### 🚩 FrameWorks
