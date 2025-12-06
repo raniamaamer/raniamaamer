@@ -43,7 +43,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 ### 🚩 Outils
 <code><img height="20" src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=orange"></code>
 <code><img height="20" src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=darkgreen"></code>
+<code><img height="20" src="https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=blue"></code>
 
 ### 🚩 DevOps
 <code><img height="20" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=bleu"></code>
@@ -53,7 +53,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/Selenium-FFFFFF?style=for-the-badge&logo=Selenium&logoColor=green"></code>
 
 ### 🚩 Bibliothéques 
-<code><img height="20" src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=OpenCV&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=OpenCV&logoColor="></code>
 <code><img height="20" src="https://img.shields.io/badge/Scikit-learn-FFFFFF?style=for-the-badge&logo=Scikit-learn&logoColor=orange"></code>
 
 
