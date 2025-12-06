@@ -14,22 +14,49 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 - 🔭 I’m currently working on projects
 - ⚡ I like cooking, video editing, photography
 
-**Languages and Tools:** 
 
-<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
-<code><img height="20" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Pandas-176139?style=for-the-badge&logo=pandas&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=orange"></code>
-<code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/OpenCV-808080?style=for-the-badge&logo=opencv&logoColor=red"></code>
-<code><img height="20" src="https://img.shields.io/badge/Streamlit-EFF0ED?style=for-the-badge&logo=streamlit&logoColor=red"></code>
-<code><img height="20" src="https://img.shields.io/badge/Plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=green"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-0080FF?style=for-the-badge&logo=react&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Flask-D30000?style=for-the-badge&logo=flask&logoColor=black"></code>
+### 🚩 Languages
+<code><img height="20" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=yellow"></code>
+<code><img height="20" src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html&logoColor=orange"></code>
+<code><img height="20" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=js&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red"></code>
+<code><img height="20" src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=python&logoColor=grey"></code>
+
+### 🚩 FrameWorks
+<code><img height="20" src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=red"></code>
+<code><img height="20" src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=orange"></code>
+<code><img height="20" src="https://img.shields.io/badge/Keras-FFFFFF?style=for-the-badge&logo=keras&logoColor=red"></code>
+<code><img height="20" src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black"></code>
+
+### 🚩 DataBase
+<code><img height="20" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=MongoDB&logoColor=DarkGreen"></code>
+<code><img height="20" src="https://img.shields.io/badge/FireBase-FFFFFF?style=for-the-badge&logo=firbase&logoColor=orange"></code>
+
+### 🚩 Visualisation
+<code><img height="20" src="https://img.shields.io/badge/PowerBI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=yellow"></code>
+<code><img height="20" src="https://img.shields.io/badge/matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/Dash-FFFFFF?style=for-the-badge&logo=dash&logoColor=purple"></code>
+<code><img height="20" src="https://img.shields.io/badge/plotly-FFFFFF?style=for-the-badge&logo=flask&logoColor=black"></code>
+
+### 🚩 Outils
+<code><img height="20" src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=orange"></code>
+<code><img height="20" src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=bleu"></code>
+
+### 🚩 DevOps
+<code><img height="20" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=Kubernetes&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/Terraform-FFFFFF?style=for-the-badge&logo=Terraform&logoColor=purple"></code>
+<code><img height="20" src="https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=Jenkins&logoColor=red"></code>
+<code><img height="20" src="https://img.shields.io/badge/Selenium-FFFFFF?style=for-the-badge&logo=Selenium&logoColor=green"></code>
+
+### 🚩 Bibliothéques 
+<code><img height="20" src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=d=opencv&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/Scikit-learn-FFFFFF?style=for-the-badge&logo=Scikit-learn&logoColor=orange"></code>
+
+
 
 
 
