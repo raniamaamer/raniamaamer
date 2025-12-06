@@ -53,7 +53,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/Selenium-FFFFFF?style=for-the-badge&logo=Selenium&logoColor=green"></code>
 
 ### 🚩 Bibliothéques 
-<code><img height="20" src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=d=opencv&logoColor=bleu"></code>
+<code><img height="20" src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=OpenCV&logoColor=bleu"></code>
 <code><img height="20" src="https://img.shields.io/badge/Scikit-learn-FFFFFF?style=for-the-badge&logo=Scikit-learn&logoColor=orange"></code>
 
 
