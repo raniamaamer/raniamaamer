@@ -16,7 +16,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 
 
 ### 🚩 Languages
-<code><img height="20.5" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=yellow"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/Python-FFFFFF?style=fzor-the-badge&logo=python&logoColor=yellow"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=orange"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css&logoColor=blue"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=darkyellow"></code>
@@ -36,7 +36,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20.5" src="https://img.shields.io/badge/fireBase-FFFFFF?style=for-the-badge&logo=fireBase&logoColor=darkorange"></code>
 
 ### 🚩 Visualisation
-<code><img height="20.5" src="https://img.shields.io/badge/Power%20BI-FFFFFF?style=for-the-badge&logo=windows&logoColor=black"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/PowerBI-FFFFFF?style=for-the-badge&logo=PowerBI&logoColor=black"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=blue"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/Dash-FFFFFF?style=for-the-badge&logo=Dash&logoColor=purple"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black"></code>
