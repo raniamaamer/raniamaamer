@@ -48,7 +48,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 
 ### 🚩 DevOps
 <code><img height="20" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=bleu"></code>
-<code><img height="20" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=Kubernetes&logoColor=darkblue"></code>
+<code><img height="20" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=Kubernetes&logoColor=blue"></code>
 <code><img height="20" src="https://img.shields.io/badge/Terraform-FFFFFF?style=for-the-badge&logo=Terraform&logoColor=purple"></code>
 <code><img height="20" src="https://img.shields.io/badge/Jenkins-FFFFFF?style=for-the-badge&logo=Jenkins&logoColor=Darkred"></code>
 <code><img height="20" src="https://img.shields.io/badge/Selenium-FFFFFF?style=for-the-badge&logo=Selenium&logoColor=green"></code>
