@@ -2,7 +2,7 @@
 السلام عليكم ورحمة الله وبركاته <br> 
 </h1> 
 
-I'm Rania Maamer, a Business Intelligence and Data science graduate, as well as a Data Scientist. I love transforming complex data into valuable insights and developing powerful applications that make a real impact.
+I'm Rania Maamer, a Business Intelligence and Data Science graduate, as well as a Data Scientist. I love transforming complex data into valuable insights and developing powerful applications that make a real impact.
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&center=false&width=500&height=50">
