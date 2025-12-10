@@ -60,7 +60,7 @@ I'm Rania Maamer, a Business Intelligence and Data Science graduate, as well as 
 <code><img height="20.5" src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/TQDM-FFD700?style=for-the-badge&logo=tqdm&logoColor=white"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/lxml-2E8B57?style=for-the-badge&logo=xml&logoColor=white"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/React-00CED1?style=for-the-badge&logo=react&logoColor=white"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/React-20B2AA?style=for-the-badge&logo=react&logoColor=white"></code>
 
 
 
