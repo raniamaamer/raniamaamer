@@ -35,7 +35,7 @@ I'm Rania Maamer, a Business Intelligence and Data Science graduate, as well as 
 <code><img height="20.5" src="https://img.shields.io/badge/MongoDB-2E8B57?style=for-the-badge&logo=MongoDB&logoColor=white"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/fireBase-FF8C00?style=for-the-badge&logo=fireBase&logoColor=white"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/PostgreSQL-4682B4?style=for-the-badge&logo=PostgreSQL&logoColor=white"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/Oracle-DC143C?style=for-the-badge&logo=oracle&logoColor=white"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/Oracle-DC143C?style=for-the-badge&logo=oracle&logoColor=black"></code>
 
 ### 🚩 Visualisation
 <code><img height="20.5" src="https://img.shields.io/badge/PowerBI-FFD700?style=for-the-badge&logo=PowerBI&logoColor=white"></code>
