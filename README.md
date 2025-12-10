@@ -16,12 +16,12 @@ I'm Rania Maamer, a Business Intelligence and Data Science graduate, as well as 
 
 
 ### 🚩 Languages
-<code><img height="20.5" src="https://img.shields.io/badge/Python-FFFFFF?style=fzor-the-badge&logo=python&logoColor=yellow"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=orange"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css&logoColor=blue"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=darkyellow"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=JAVA&logoColor=red"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=R&logoColor=blue"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/Python-002157?style=fzor-the-badge&logo=python&logoColor=yellow"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/HTML5-A9A9A9?style=for-the-badge&logo=html5&logoColor=orange"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css&logoColor=blue"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=darkyellow"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/Java-00008B?style=for-the-badge&logo=JAVA&logoColor=red"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/R-6495ED?style=for-the-badge&logo=R&logoColor=blue"></code>
 
 ### 🚩 FrameWorks
 <code><img height="20.5" src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=red"></code>
