@@ -52,7 +52,7 @@ I'm Rania Maamer, a Business Intelligence and Data Science graduate, as well as 
 <code><img height="20.5" src="https://img.shields.io/badge/Kubernetes-4F85E8?style=for-the-badge&logo=Kubernetes&logoColor=white"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/Terraform-6A5ACD?style=for-the-badge&logo=Terraform&logoColor=white"></code>
 <code><img height="20.5" src="https://img.shields.io/badge/Jenkins-DC143C?style=for-the-badge&logo=Jenkins&logoColor=black"></code>
-<code><img height="20.5" src="https://img.shields.io/badge/Selenium-4FCF1D?style=for-the-badge&logo=Selenium&logoColor=white"></code>
+<code><img height="20.5" src="https://img.shields.io/badge/Selenium-67CC3F?style=for-the-badge&logo=Selenium&logoColor=white"></code>
 
 ### 🚩 Bibliothéques 
 <code><img height="20.5" src="https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=OpenCV&logoColor=white"></code>
